@@ -1,7 +1,9 @@
 ---
 templateKey: contact-page
 title: Contact Page
-path: /contact
+mainImage:
+  image: /img/teemu-paananen-376238-unsplash.jpg
+  imageAlt: DebuNK at Cornell Contact.
 seo:
   browserTitle: Contact Us | DebuNK at Cornell
   description: Email us with any questions. We'd love to hear from you.
