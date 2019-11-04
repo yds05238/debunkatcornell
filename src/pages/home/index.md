@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
+  image: /img/1.png
   imageAlt: JavaScript Wakanda
 title: Meet other JavaScript Developers in Wakanda
 upcomingMeetupHeading: Upcoming Meetup
