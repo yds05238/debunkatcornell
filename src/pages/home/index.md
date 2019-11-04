@@ -2,8 +2,8 @@
 templateKey: home-page
 headerImage:
   image: /img/1.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
+  imageAlt: DebuNK at Cornell
+title: DebuNK at Cornell
 upcomingMeetupHeading: Upcoming Meetup
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
@@ -19,10 +19,10 @@ callToActions:
     linkURL: 'mailto:contact@js-wakanda.org'
     subHeading: Want to present at an upcoming meetup? Contact us.
 seo:
-  browserTitle: JS Wakanda
+  browserTitle: DebuNK at Cornell
   description: >-
-    JavaScript meetup group in Wakanda where JavaScript developers get together
-    for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+    Student organization for educating, collaborating, and advocating for human
+    rights in North Korea
+  title: DebuNK at Cornell
 ---
 
